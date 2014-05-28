@@ -1,2 +1,3 @@
-angularJs
+AngularJS
 =========
+Demos
